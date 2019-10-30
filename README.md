@@ -1,4 +1,4 @@
-# CrushThemAllMonkeyScripts
+# Crush Them All Scripts run through [monkeyrunner](https://developer.android.com/studio/test/monkeyrunner)
 Welcome! This is the scripts that I made to do things in the game Crush Them All.
 
 You will need to configure either Android Debug Bridge to a physical device OR have it connect to a emulated device.
