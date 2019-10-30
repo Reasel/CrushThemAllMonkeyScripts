@@ -11,7 +11,7 @@ Will need to configure `device = MonkeyRunner.waitForConnection(10000, "a60e0c51
 All scripts were run on a Galaxy S7 on Android 8.0. If you are running something different then you will need to adjust the coordinates used in the various scripts.
 
 
-## [Chest Farmer](https://github.com/Reasel/CrushThemAllMonkeyScripts/blob/master/ChestFarmer.py
+## [Chest Farmer](https://github.com/Reasel/CrushThemAllMonkeyScripts/blob/master/ChestFarmer.py)
 This script is designed to do a series of drag events in the area where chests are found. This is to avoid having to do 'touches' which I found were not very reliable.
 
 You will need to configure the ChestRange variable to your specific area. I would recommend using the developer option in your device to find these.
